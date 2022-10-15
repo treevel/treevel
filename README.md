@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!-- GitHub Stats Card-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=treevel&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
+
+<!-- Top Languages Card-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treevel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)

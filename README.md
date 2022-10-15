@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 14 October 2022 - To: 15 October 2022
+
+Total Time: 1 hr 5 mins
+
+PHP    1 hr 3 mins     ████████████████████████░   95.92 %
+JSON   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats Card-->

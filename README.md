@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 <!-- Top Languages Card-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treevel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- Waka time-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=treevel)](https://github.com/anuraghazra/github-readme-stats)
-
-[![wakatime](https://wakatime.com/badge/user/1febe668-e1b5-4c98-9716-e6a4c3225ac6.svg)](https://wakatime.com/@1febe668-e1b5-4c98-9716-e6a4c3225ac6)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 

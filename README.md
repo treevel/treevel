@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 <!-- GitHub Stats Card-->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=treevel&show_icons=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true)
 
-<!-- Top Languages Card-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=treevel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 

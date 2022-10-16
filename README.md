@@ -16,30 +16,24 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-95-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
+📊 **本週的花費時間** 
 
 ```text
-⌚︎ Time Zone: Asia/Taipei
+⌚︎ 時區: Asia/Taipei
 
-💬 Programming Languages: 
+💬 程式語言: 
 PHP                      1 hr 3 mins         ████████████████████████░   95.92% 
 JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
 
-🔥 Editors: 
+🔥 編輯器: 
 VS Code                  1 hr 5 mins         █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 作業系統: 
 Mac                      1 hr 5 mins         █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**我最經常使用 Jupyter Notebook** 
 
 ```text
 Jupyter Notebook         3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
@@ -52,7 +46,6 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 2022/10/16 01:08:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats Card-->

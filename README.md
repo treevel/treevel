@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- GitHub Stats Card-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=treevel&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%208%20mins-blue)
 
@@ -52,8 +49,8 @@ HTML                     1 repo              ██░░░░░░░░░�
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
 ```
-
-
-
  Last Updated on 2022/10/16 00:46:08 UTC
 <!--END_SECTION:waka-->
+
+<!-- GitHub Stats Card-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=treevel&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

@@ -23,4 +23,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "False"
-          LOCALE: "zh_TW"
+          LOCALE: "en"

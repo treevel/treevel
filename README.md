@@ -1,19 +1,22 @@
 <!--### Hi there 👋-->
 
-<!--
-**treevel/treevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="border: 0px solid white;">
+  <tr style="border: 0px;">
+    <td style="border: 0px;"><img src="./devcard.svg" alt="A dev card" width="400" hight="100%"></td>
+    <td style="border: 0px;">
+      <p>**treevel/treevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</p>
+      <p>Here are some ideas to get you started:</p>
+      <p>- 🔭 I’m currently working on ...</p>
+      <p>- 🌱 I’m currently learning ...</p>
+      <p>- 👯 I’m looking to collaborate on ...</p>
+      <p>- 🤔 I’m looking for help with ...</p>
+      <p>- 💬 Ask me about ...</p>
+      <p>- 📫 How to reach me: ...</p>
+      <p>- 😄 Pronouns: ...</p>
+      <p>- ⚡ Fun fact: ...</p>
+    </td>
+  </tr>
+</table>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 

@@ -1,22 +1,24 @@
 <!--### Hi there 👋-->
 
-<div style="display: flex; flex-direction: row;">
-  <div style="border:1px solid">
-    <img src="./devcard.svg" alt="A dev card" width="35%" hight="35%">
-  </div>
-  <div style="border:1px solid">
-    <p><strong>treevel/treevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<strong></p>
-    <p>Here are some ideas to get you started:</p>
-    <p>- 🔭 I’m currently working on ...</p>
-    <p>- 🌱 I’m currently learning ...</p>
-    <p>- 👯 I’m looking to collaborate on ...</p>
-    <p>- 🤔 I’m looking for help with ...</p>
-    <p>- 💬 Ask me about ...</p>
-    <p>- 📫 How to reach me: ...</p>
-    <p>- 😄 Pronouns: ...</p>
-    <p>- ⚡ Fun fact: ...</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="./devcard.svg" alt="A dev card" width="400" hight="100%">
+    </td>
+    <td>
+      <p>**treevel/treevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</p>
+      <p>Here are some ideas to get you started:</p>
+      <p>- 🔭 I’m currently working on ...</p>
+      <p>- 🌱 I’m currently learning ...</p>
+      <p>- 👯 I’m looking to collaborate on ...</p>
+      <p>- 🤔 I’m looking for help with ...</p>
+      <p>- 💬 Ask me about ...</p>
+      <p>- 📫 How to reach me: ...</p>
+      <p>- 😄 Pronouns: ...</p>
+      <p>- ⚡ Fun fact: ...</p>
+    </td>
+  </tr>
+</table>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 

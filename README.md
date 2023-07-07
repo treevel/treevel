@@ -1,11 +1,11 @@
-### Hi there 👋
-
+<!--
 <table>
   <tr>
     <td>
       <img src="./devcard.svg" alt="A dev card" width="400" hight="100%">
     </td>
     <td>
+      <p>### Hi there 👋</p>
       <p>**treevel/treevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.</p>
       <p>Here are some ideas to get you started:</p>
       <p>- 🔭 I’m currently working on ...</p>
@@ -19,6 +19,7 @@
     </td>
   </tr>
 </table>
+-->
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -51,10 +52,6 @@ PHP                      2 repos             █████░░░░░░�
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
-
-
-
-
 <!--END_SECTION:waka-->
 
 <!-- GitHub Stats Card-->

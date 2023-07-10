@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Update Readme for DevCard
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: dailydotdev/action-devcard@2.2.0
         with:

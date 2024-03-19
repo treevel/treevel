@@ -53,10 +53,4 @@ JavaScript               1 repo              ██░░░░░░░░░�
 HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
-
-
-
 <!--END_SECTION:waka-->
-
-<!-- GitHub Stats Card-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=treevel&show_icons=true&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats)

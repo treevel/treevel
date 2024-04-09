@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Treevel, a senior engineer in 17LIVE
+I'm Treevel, a senior engineer in 17LIVE.
 
 ## My technology stack
 

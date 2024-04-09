@@ -2,7 +2,7 @@
 
 I'm Treevel, a senior engineer in 17LIVE
 
-## Skills
+## My technology stack
 
 ### Programming Language
 
@@ -120,6 +120,6 @@ Windows                  41 mins             █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## Reach me on
+## Where to find me
 
 

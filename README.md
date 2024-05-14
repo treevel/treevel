@@ -56,56 +56,69 @@ Mac                      25 hrs 23 mins      ███████████�
 
 ### DevOps
 
-<!-- 缺 table-->
-
-#### Cloud Service Provider
-
-<div>
-  <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />
-  <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws"   alt="AWS logo" title="AWS" height="25" />
-</div>
-
-#### Containerization
-
-<div>
-  <img src="https://img.shields.io/badge/K8s-282C34?logo=kubernetes" alt="K8s logo"    title="K8s"    height="25" />
-  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker"  alt="Docker logo" title="Docker" height="25" />
-</div>
-
-#### CI/CD
-
-<div>
-  <img src="https://img.shields.io/badge/Argo-282C34?logo=argo"                    alt="Argo logo"           title="Argo"           height="25" />
-  <img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins"              alt="Jenkins logo"        title="Jenkins"        height="25" />
-  <img src="https://img.shields.io/badge/CircleCI-282C34?logo=circleci"            alt="CircleCI logo"       title="CircleCI"       height="25" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-282C34?logo=githubactions" alt="GitHub Actions logo" title="GitHub Actions" height="25" />
-</div>
-
-#### Monitoring
-
-<div>
-  <img src="https://img.shields.io/badge/Datadog-282C34?logo=datadog"              alt="Datadog logo"          title="Datadog"          height="25" />
-  <img src="https://img.shields.io/badge/Garafana-282C34?logo=grafana"             alt="Garafana logo"         title="Garafana"         height="25" />
-  <img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus"        alt="Prometheus logo"       title="Prometheus"       height="25" />
-  <img src="https://img.shields.io/badge/Cloud_Monitoring-282C34?logo=googlecloud" alt="Cloud Monitoring logo" title="Cloud Monitoring" height="25" />
-</div>
-
-#### Version Control
-
-<div>
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git"             alt="Git logo"       title="Git"       height="25" />
-  <img src="https://img.shields.io/badge/GitHub-282C34?logo=github"       alt="GitHub logo"    title="GitHub"    height="25" />
-  <img src="https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket" alt="Bitbucket logo" title="Bitbucket" height="25" />
-</div>
-
-#### Others
-
-<div>
-  <img src="https://img.shields.io/badge/ELK-282C34?logo=elasticstack" alt="ELK logo"     title="ELK"     height="25" />
-  <img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible"  alt="Ansible logo" title="Ansible" height="25" />
-  <img src="https://img.shields.io/badge/Vault-282C34?logo=vault"      alt="Vault logo"   title="Vault"   height="25" />
-  <img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx"      alt="Nginx logo"   title="Nginx"   height="25" />
-</div>
+<table>
+    <tr>
+        <td>Cloud Service Provider</td>
+        <td>
+          <div>
+            <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />
+            <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws"   alt="AWS logo" title="AWS" height="25" />
+          </div>
+        </td>
+    </tr>
+    <tr>
+        <td>Containerization</td>
+        <td>
+          <div>
+            <img src="https://img.shields.io/badge/K8s-282C34?logo=kubernetes" alt="K8s logo"    title="K8s"    height="25" />
+            <img src="https://img.shields.io/badge/Docker-282C34?logo=docker"  alt="Docker logo" title="Docker" height="25" />
+          </div>
+        </td>
+    </tr>
+    <tr>
+        <td>CI/CD</td>
+        <td>
+          <div>
+            <img src="https://img.shields.io/badge/Argo-282C34?logo=argo"                    alt="Argo logo"           title="Argo"           height="25" />
+            <img src="https://img.shields.io/badge/Jenkins-282C34?logo=jenkins"              alt="Jenkins logo"        title="Jenkins"        height="25" />
+            <img src="https://img.shields.io/badge/CircleCI-282C34?logo=circleci"            alt="CircleCI logo"       title="CircleCI"       height="25" />
+            <img src="https://img.shields.io/badge/GitHub_Actions-282C34?logo=githubactions" alt="GitHub Actions logo" title="GitHub Actions" height="25" />
+          </div>
+        </td>
+    </tr>
+      <tr>
+        <td>Monitoring</td>
+        <td>
+          <div>
+            <img src="https://img.shields.io/badge/Datadog-282C34?logo=datadog"              alt="Datadog logo"          title="Datadog"          height="25" />
+            <img src="https://img.shields.io/badge/Garafana-282C34?logo=grafana"             alt="Garafana logo"         title="Garafana"         height="25" />
+            <img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus"        alt="Prometheus logo"       title="Prometheus"       height="25" />
+            <img src="https://img.shields.io/badge/Cloud_Monitoring-282C34?logo=googlecloud" alt="Cloud Monitoring logo" title="Cloud Monitoring" height="25" />
+          </div>
+        </td>
+    </tr>
+      <tr>
+        <td>Version Control</td>
+        <td>
+          <div>
+            <img src="https://img.shields.io/badge/Git-282C34?logo=git"             alt="Git logo"       title="Git"       height="25" />
+            <img src="https://img.shields.io/badge/GitHub-282C34?logo=github"       alt="GitHub logo"    title="GitHub"    height="25" />
+            <img src="https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket" alt="Bitbucket logo" title="Bitbucket" height="25" />
+          </div>
+        </td>
+    </tr>
+      <tr>
+        <td>Others</td>
+        <td>
+          <div>
+            <img src="https://img.shields.io/badge/ELK-282C34?logo=elasticstack" alt="ELK logo"     title="ELK"     height="25" />
+            <img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible"  alt="Ansible logo" title="Ansible" height="25" />
+            <img src="https://img.shields.io/badge/Vault-282C34?logo=vault"      alt="Vault logo"   title="Vault"   height="25" />
+            <img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx"      alt="Nginx logo"   title="Nginx"   height="25" />
+          </div>
+        </td>
+    </tr>
+</table>
 
 ### I also sometimes play with
 

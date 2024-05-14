@@ -2,6 +2,8 @@
 
 My name is Treevel. I'm a senior engineer in <a href="https://17.live/en">17LIVE</a>.
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="Putting%20the%20user%20at%20the%20center%2C%20seeking%20genuine%20needs%2C%20and%20pursuing%20authentic%20products."&type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## My weekly coding report
 
 <!--START_SECTION:waka-->

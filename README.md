@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Treevel, a senior engineer in 17LIVE.
+My name is Treevel. I'm a senior engineer in <a href="https://17.live/en">17LIVE</a>.
 
 ## My weekly coding report
 

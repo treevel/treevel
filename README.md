@@ -136,9 +136,9 @@ Mac                      25 hrs 23 mins      ███████████�
 
 <div>
   <a href="https://www.linkedin.com/in/treevel">
-    <img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin"     alt="linkedin logo"    title="linkedin"    height="25" />
+    <img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin" alt="linkedin logo" title="linkedin" height="25" />
   </a>
   <a href="mailto:treevel.github@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-282C34?logo=gmail"      alt="gmail logo"    title="gmail"    height="25" />
+    <img src="https://img.shields.io/badge/gmail-282C34?logo=gmail" alt="gmail logo" title="gmail" height="25" />
   </a>
 </div>

@@ -64,7 +64,7 @@ Mac                      5 hrs 28 mins       ███████████�
         <td>
           <div>
             <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />
-            <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws"   alt="AWS logo" title="AWS" height="25" />
+            <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonwebservices"   alt="AWS logo" title="AWS" height="25" />
           </div>
         </td>
     </tr>

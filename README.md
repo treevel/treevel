@@ -36,6 +36,7 @@ Windows                  4 hrs 9 mins        ████████░░░�
 ### Programming Language
 
 <div>
+  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="Typescript logo" title="Typescript" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />
   <img src="https://img.shields.io/badge/PHP-282C34?logo=php"               alt="PHP logo"        title="PHP"        height="25" />
   <img src="https://img.shields.io/badge/Python-282C34?logo=python"         alt="Python logo"     title="Python"     height="25" />

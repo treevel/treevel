@@ -64,8 +64,9 @@ Windows                  19 mins             ██░░░░░░░░░�
         <td>Cloud Service Provider</td>
         <td>
           <div>
-            <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud" alt="GCP logo" title="GCP" height="25" />
-            <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonwebservices"   alt="AWS logo" title="AWS" height="25" />
+            <img src="https://img.shields.io/badge/GCP-282C34?logo=googlecloud"         alt="GCP logo"        title="GCP"        height="25" />
+            <img src="https://img.shields.io/badge/AWS-282C34?logo=amazonwebservices"   alt="AWS logo"        title="AWS"        height="25" />
+            <img src="https://img.shields.io/badge/Cloudflare-282C34?logo=Cloudflare"   alt="Cloudflare logo" title="Cloudflare" height="25" />
           </div>
         </td>
     </tr>
@@ -93,10 +94,10 @@ Windows                  19 mins             ██░░░░░░░░░�
         <td>Monitoring</td>
         <td>
           <div>
-            <img src="https://img.shields.io/badge/Datadog-282C34?logo=datadog"              alt="Datadog logo"          title="Datadog"          height="25" />
-            <img src="https://img.shields.io/badge/Garafana-282C34?logo=grafana"             alt="Garafana logo"         title="Garafana"         height="25" />
-            <img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus"        alt="Prometheus logo"       title="Prometheus"       height="25" />
-            <img src="https://img.shields.io/badge/Cloud_Monitoring-282C34?logo=googlecloud" alt="Cloud Monitoring logo" title="Cloud Monitoring" height="25" />
+            <img src="https://img.shields.io/badge/Datadog-282C34?logo=datadog&logoColor=white" alt="Datadog logo"          title="Datadog"          height="25" />
+            <img src="https://img.shields.io/badge/Garafana-282C34?logo=grafana"                alt="Garafana logo"         title="Garafana"         height="25" />
+            <img src="https://img.shields.io/badge/Prometheus-282C34?logo=prometheus"           alt="Prometheus logo"       title="Prometheus"       height="25" />
+            <img src="https://img.shields.io/badge/Cloud_Monitoring-282C34?logo=googlecloud"    alt="Cloud Monitoring logo" title="Cloud Monitoring" height="25" />
           </div>
         </td>
     </tr>

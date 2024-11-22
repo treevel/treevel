@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <a href="https://flowcv.com/resume/pe848csjrg" target="_blank">Treevel</a>., a senior engineer in <a href="https://17.live/en" target="_blank">17LIVE</a>.
+I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [17LIVE](https://17.live/en).
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="Focus%20on%20the%20user%2C%20identify%20real%20needs%2C%20and%20pursue%20the%20authentic%20product."&type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 

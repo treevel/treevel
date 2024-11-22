@@ -36,9 +36,9 @@ Windows                  19 mins             ██░░░░░░░░░�
 ### Programming Language
 
 <div>
+  <img src="https://img.shields.io/badge/PHP-282C34?logo=php"               alt="PHP logo"        title="PHP"        height="25" />
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="Typescript logo" title="Typescript" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />
-  <img src="https://img.shields.io/badge/PHP-282C34?logo=php"               alt="PHP logo"        title="PHP"        height="25" />
   <img src="https://img.shields.io/badge/Python-282C34?logo=python"         alt="Python logo"     title="Python"     height="25" />
 </div>
 
@@ -74,8 +74,8 @@ Windows                  19 mins             ██░░░░░░░░░�
         <td>Containerization</td>
         <td>
           <div>
-            <img src="https://img.shields.io/badge/K8s-282C34?logo=kubernetes" alt="K8s logo"    title="K8s"    height="25" />
-            <img src="https://img.shields.io/badge/Docker-282C34?logo=docker"  alt="Docker logo" title="Docker" height="25" />
+            <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes" alt="Kubernetes logo" title="Kubernetes" height="25" />
+            <img src="https://img.shields.io/badge/Docker-282C34?logo=docker"         alt="Docker logo"     title="Docker"     height="25" />
           </div>
         </td>
     </tr>
@@ -115,10 +115,11 @@ Windows                  19 mins             ██░░░░░░░░░�
         <td>Others</td>
         <td>
           <div>
-            <img src="https://img.shields.io/badge/ELK-282C34?logo=elasticstack" alt="ELK logo"     title="ELK"     height="25" />
-            <img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible"  alt="Ansible logo" title="Ansible" height="25" />
-            <img src="https://img.shields.io/badge/Vault-282C34?logo=vault"      alt="Vault logo"   title="Vault"   height="25" />
-            <img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx"      alt="Nginx logo"   title="Nginx"   height="25" />
+            <img src="https://img.shields.io/badge/Elastic Stack-282C34?logo=elasticstack" alt="Elastic stack logo" title="Elastic Stack" height="25" />
+            <img src="https://img.shields.io/badge/Ansible-282C34?logo=ansible"            alt="Ansible logo"       title="Ansible"       height="25" />
+            <img src="https://img.shields.io/badge/Vault-282C34?logo=vault"                alt="Vault logo"         title="Vault"         height="25" />
+            <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq"          alt="RabbitMQ logo"      title="RabbitMQ"      height="25" />
+            <img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx"                alt="Nginx logo"         title="Nginx"         height="25" />
           </div>
         </td>
     </tr>
@@ -140,9 +141,9 @@ Windows                  19 mins             ██░░░░░░░░░�
 
 <div>
   <a href="https://www.linkedin.com/in/treevel">
-    <img src="https://img.shields.io/badge/linkedin-282C34?logo=linkedin" alt="linkedin logo" title="linkedin" height="25" />
+    <img src="https://img.shields.io/badge/Linkedin-282C34?logo=linkedin" alt="Linkedin logo" title="Linkedin" height="25" />
   </a>
   <a href="mailto:treevel.github@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-282C34?logo=gmail" alt="gmail logo" title="gmail" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail" alt="Gmail logo" title="Gmail" height="25" />
   </a>
 </div>

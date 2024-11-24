@@ -52,7 +52,7 @@ Windows                  27 mins             ███░░░░░░░░�
 ### Database
 
 <div>
-  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql"     alt="MySQL logo"   title="MySQL"   height="25" />
+  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=D3E1FC"     alt="MySQL logo"   title="MySQL"   height="25" />
   <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" />
   <img src="https://img.shields.io/badge/Redis-282C34?logo=redis"     alt="Redis logo"   title="Redis"   height="25" />
 </div>

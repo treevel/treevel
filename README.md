@@ -130,7 +130,7 @@ Windows                  27 mins             ███░░░░░░░░�
 <div>
   <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs"     alt="Vue.js logo"    title="Vue.js"    height="25" />
   <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium"   alt="Selenium logo"  title="Selenium"  height="25" />
-  <img src="https://img.shields.io/badge/JQuery-282C34?logo=jquery"       alt="JQuery logo"    title="JQuery"    height="25" />
+  <img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery"       alt="jQuery logo"    title="jQuery"    height="25" />
   <img src="https://img.shields.io/badge/AngularJS-282C34?logo=angular"   alt="Angular logo"   title="Angular"   height="25" />
   <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />
   <img src="https://img.shields.io/badge/HTML-282C34?logo=html5"          alt="HTML logo"      title="HTML"      height="25" />

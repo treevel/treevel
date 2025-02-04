@@ -22,7 +22,6 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-
 <!--END_SECTION:waka-->
 
 ## My technology stack

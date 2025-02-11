@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104 Corporation](https://corp.104.com.tw/en/home/).
+I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](https://corp.104.com.tw/en/home/).
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote="Focus%20on%20the%20user%2C%20identify%20real%20needs%2C%20and%20pursue%20the%20authentic%20product."&type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 

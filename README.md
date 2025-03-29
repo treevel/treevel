@@ -37,6 +37,7 @@ Windows                  16 mins             █░░░░░░░░░░�
 ### Programming Language
 
 <div>
+  <img src="https://img.shields.io/badge/Java-282C34?logo=Java"             alt="Java logo"       title="Java"       height="25" />
   <img src="https://img.shields.io/badge/PHP-282C34?logo=php"               alt="PHP logo"        title="PHP"        height="25" />
   <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript" alt="Typescript logo" title="Typescript" height="25" />
   <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript" alt="JavaScript logo" title="JavaScript" height="25" />
@@ -46,8 +47,9 @@ Windows                  16 mins             █░░░░░░░░░░�
 ### Framework
 
 <div>
-  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel" alt="Laravel logo" title="Laravel" height="25" />
-  <img src="https://img.shields.io/badge/Express-282C34?logo=express" alt="Express logo" title="Express" height="25" />
+  <img src="https://img.shields.io/badge/Spring boot-282C34?logo=spring-boot" alt="Spring boot logo" title="Spring boot" height="25" />
+  <img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel"         alt="Laravel logo"     title="Laravel"     height="25" />
+  <img src="https://img.shields.io/badge/Express-282C34?logo=express"         alt="Express logo"     title="Express"     height="25" />
 </div>
 
 ### Database
@@ -132,7 +134,6 @@ Windows                  16 mins             █░░░░░░░░░░�
   <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs"     alt="Vue.js logo"    title="Vue.js"    height="25" />
   <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium"   alt="Selenium logo"  title="Selenium"  height="25" />
   <img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery"       alt="jQuery logo"    title="jQuery"    height="25" />
-  <img src="https://img.shields.io/badge/AngularJS-282C34?logo=angular"   alt="Angular logo"   title="Angular"   height="25" />
   <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />
   <img src="https://img.shields.io/badge/HTML-282C34?logo=html5"          alt="HTML logo"      title="HTML"      height="25" />
   <img src="https://img.shields.io/badge/CSS-282C34?logo=css3"            alt="CSS logo"       title="CSS"       height="25" />

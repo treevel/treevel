@@ -134,7 +134,7 @@ Mac                      26 hrs 19 mins      ███████████�
   <img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery"       alt="jQuery logo"    title="jQuery"    height="25" />
   <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />
   <img src="https://img.shields.io/badge/HTML-282C34?logo=html5"          alt="HTML logo"      title="HTML"      height="25" />
-  <img src="https://img.shields.io/badge/CSS-282C34?logo=css3"            alt="CSS logo"       title="CSS"       height="25" />
+  <img src="https://img.shields.io/badge/CSS-282C34?logo=css"            alt="CSS logo"       title="CSS"       height="25" />
 </div>
 
 ## Where to find me

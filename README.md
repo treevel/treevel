@@ -129,12 +129,13 @@ Mac                      26 hrs 58 mins      ███████████�
 ### I also sometimes play with
 
 <div>
-  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs"     alt="Vue.js logo"    title="Vue.js"    height="25" />
-  <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium"   alt="Selenium logo"  title="Selenium"  height="25" />
-  <img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery"       alt="jQuery logo"    title="jQuery"    height="25" />
-  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap" alt="Bootstrap logo" title="Bootstrap" height="25" />
-  <img src="https://img.shields.io/badge/HTML-282C34?logo=html5"          alt="HTML logo"      title="HTML"      height="25" />
-  <img src="https://img.shields.io/badge/CSS-282C34?logo=css"            alt="CSS logo"       title="CSS"       height="25" />
+  <img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs"           alt="Vue.js logo"    title="Vue.js"    height="25" />
+  <img src="https://img.shields.io/badge/Selenium-282C34?logo=selenium"         alt="Selenium logo"  title="Selenium"  height="25" />
+  <img src="https://img.shields.io/badge/jQuery-282C34?logo=jquery"             alt="jQuery logo"    title="jQuery"    height="25" />
+  <img src="https://img.shields.io/badge/-Tailwind CSS-282C34?logo=tailwindcss" alt="Tailwind logo"  title="Tailwind"  height="25" />
+  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap"       alt="Bootstrap logo" title="Bootstrap" height="25" />
+  <img src="https://img.shields.io/badge/HTML-282C34?logo=html5"                alt="HTML logo"      title="HTML"      height="25" />
+  <img src="https://img.shields.io/badge/CSS-282C34?logo=css"                   alt="CSS logo"       title="CSS"       height="25" />
 </div>
 
 ## Where to find me

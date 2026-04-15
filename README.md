@@ -13,18 +13,19 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-PHP                      7 hrs 53 mins       ███████████████░░░░░░░░░░   58.41 % 
-sh                       2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Java                     1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-YAML                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+PHP                      9 hrs 41 mins       ███████████████░░░░░░░░░░   60.59 % 
+sh                       2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Java                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 11 mins      █████████████████████░░░░   82.85 % 
-Zsh                      2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+VS Code                  13 hrs 32 mins      █████████████████████░░░░   84.67 % 
+Zsh                      2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Unknown Editor           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Mac                      13 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 

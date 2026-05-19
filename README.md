@@ -7,6 +7,26 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 ## My weekly coding report
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+PHP                      8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.37 % 
+sh                       4 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Markdown                 3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+JSON                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 40 mins      ███████████████████░░░░░░   75.28 % 
+Zsh                      4 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+
+💻 Operating System: 
+Mac                      19 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 

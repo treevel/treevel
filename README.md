@@ -13,20 +13,20 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 16 hrs 25 mins      ███████████████░░░░░░░░░░   60.17 % 
-JavaScript               4 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-PHP                      3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Python                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Docker                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Markdown                 23 hrs 47 mins      █████████████████░░░░░░░░   69.50 % 
+JavaScript               3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+PHP                      3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+YAML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Docker                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 36 mins      ████████████████░░░░░░░░░   64.54 % 
-VS Code                  7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-Zsh                      1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              25 hrs 2 mins       ██████████████████░░░░░░░   73.16 % 
+VS Code                  7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Zsh                      1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Mac                      27 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 

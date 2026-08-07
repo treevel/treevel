@@ -7,51 +7,6 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 ## My weekly coding report
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-166%20hrs%2011%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-PHP                      3 hrs 35 mins       ██████████████░░░░░░░░░░░   54.91 % 
-Markdown                 1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   21.63 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-sh                       16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-
-🔥 Editors: 
-Claude Code              3 hrs 48 mins       ███████████████░░░░░░░░░░   58.18 % 
-VS Code                  2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.72 % 
-Zsh                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-
-💻 Operating System: 
-Mac                      6 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 26 mins (68.08%)
-
-✍️ 31,866 lines written by AI, 76 lines written by hand (99.76% AI-written)
-
-🔤 87,301,238 Input Tokens, 611,083 Output Tokens
-
-💵 $270.76 Estimated AI Cost This Week
-
-🧠 10 AI Sessions, 55 AI Prompts
-
-Sonnet                   31,914 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📚 Verbose Prompter — average 1,734 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.46% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 

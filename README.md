@@ -7,52 +7,7 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 ## My weekly coding report
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-216%20hrs%2052%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-Other                    3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
-PHP                      2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-sh                       1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Markdown                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Kotlin                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-
-🔥 Editors: 
-Claude Code              8 hrs 12 mins       ███████████████░░░░░░░░░░   58.22 % 
-VS Code                  3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-Zsh                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-
-💻 Operating System: 
-Mac                      14 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 10 hrs 44 mins (76.19%)
-
-✍️ 2,999 lines written by AI, 352 lines written by hand (89.5% AI-written)
-
-🔤 5,169,533 Input Tokens, 886,036 Output Tokens
-
-💵 $97.28 Estimated AI Cost This Week
-
-🧠 28 AI Sessions, 197 AI Prompts
-
-Opus                     2,014 lines         █████████████████░░░░░░░░   66.64 % 
-Sonnet                   1,008 lines         ████████░░░░░░░░░░░░░░░░░   33.36 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 89.5% of written lines came from AI
-📚 Verbose Prompter — average 5,443 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 18.63% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-218%20hrs%2035%20mins-blue?style=flat)
 
 
 <!--END_SECTION:waka-->

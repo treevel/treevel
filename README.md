@@ -7,7 +7,7 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 ## My weekly coding report
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-232%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-233%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -15,42 +15,42 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-PHP                      11 hrs 38 mins      ███████████████░░░░░░░░░░   61.51 % 
-sh                       2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Markdown                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Other                    1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+PHP                      13 hrs 12 mins      ████████████████░░░░░░░░░   64.58 % 
+Markdown                 2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+sh                       2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
-Claude Code              7 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   40.06 % 
-Zsh                      3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+VS Code                  9 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.99 % 
+Claude Code              7 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.30 % 
+Zsh                      3 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 
 💻 Operating System: 
-Mac                      18 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 27 mins (71.09%)
+⏱ AI Coding Time: 13 hrs 28 mins (65.95%)
 
-✍️ 6,322 lines written by AI, 436 lines written by hand (93.55% AI-written)
+✍️ 6,322 lines written by AI, 598 lines written by hand (91.36% AI-written)
 
-🔤 6,689,088 Input Tokens, 1,237,765 Output Tokens
+🔤 7,261,630 Input Tokens, 1,450,465 Output Tokens
 
-💵 $210.68 Estimated AI Cost This Week
+💵 $226.71 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 215 AI Prompts
+🧠 23 AI Sessions, 190 AI Prompts
 
 Opus                     5,996 lines         ██████████████████████░░░   88.78 % 
 Sonnet                   758 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.55% of written lines came from AI
-📚 Verbose Prompter — average 1,529 characters per prompt
+🤖 AI-Driven — 91.36% of written lines came from AI
+📚 Verbose Prompter — average 1,698 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 23.55% of changed lines were hand-edited
+🚀 High AI Trust — 25.46% of changed lines were hand-edited
 ```
 
 

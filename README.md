@@ -7,7 +7,7 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 ## My weekly coding report
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-249%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-250%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -39,7 +39,7 @@ Mac                      14 hrs 48 mins      ███████████�
 
 🔤 7,217,633 Input Tokens, 444,783 Output Tokens
 
-💵 $84.55 Estimated AI Cost This Week
+💵 $70.69 Estimated AI Cost This Week
 
 🧠 23 AI Sessions, 186 AI Prompts
 

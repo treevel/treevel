@@ -15,41 +15,41 @@ I'm [Treevel](https://flowcv.com/resume/pe848csjrg), a senior engineer in [104](
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-PHP                      9 hrs 36 mins       █████████████░░░░░░░░░░░░   52.61 % 
-sh                       4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+PHP                      7 hrs 50 mins       ████████████░░░░░░░░░░░░░   49.76 % 
+sh                       4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
+Python                   1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 9 mins        ███████████░░░░░░░░░░░░░░   44.65 % 
-Claude Code              5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-Zsh                      4 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+VS Code                  6 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.94 % 
+Claude Code              4 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+Zsh                      4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
 
 💻 Operating System: 
-Mac                      18 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 50 mins (37.47%)
+⏱ AI Coding Time: 5 hrs 49 mins (37.05%)
 
-✍️ 2,637 lines written by AI, 2,708 lines written by hand (49.34% AI-written)
+✍️ 2,709 lines written by AI, 1,093 lines written by hand (71.25% AI-written)
 
-🔤 3,295,394 Input Tokens, 775,201 Output Tokens
+🔤 3,115,413 Input Tokens, 698,867 Output Tokens
 
-💵 $99.36 Estimated AI Cost This Week
+💵 $90.69 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 129 AI Prompts
+🧠 23 AI Sessions, 108 AI Prompts
 
-Opus                     2,898 lines         █████████████████████████   100.00 % 
+Opus                     2,970 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.34% of written lines came from AI
-📚 Verbose Prompter — average 2,416 characters per prompt
+🤖 AI-Driven — 71.25% of written lines came from AI
+📚 Verbose Prompter — average 2,713 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 90.3% of changed lines were hand-edited
+🚀 High AI Trust — 43.47% of changed lines were hand-edited
 ```
 
 
